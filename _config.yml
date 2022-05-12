@@ -1,4 +1,4 @@
-title: Your awesome title
+title: My Awesome Blog
 author: Heidi
 theme: minima
 email: hso2@ebnet.org
@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 twitter_username: Hamso1120
+instagram_username: heidiso1120
 github_username:  Hamso1120
 
 show_excerpts: true # set to false to remove excerpts on the homepage
